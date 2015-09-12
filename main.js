@@ -1,4 +1,4 @@
 var multiply = require('./multiply');
 var $ = require('jquery');
 
-$(document.body).html(multiply(10,5));
+$(document.body).html(multiply(12,5));
